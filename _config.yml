@@ -3,8 +3,8 @@ description: Student at Cairo University Faculty of Engineering
 author:
   name: Ahmad Adel Muhammad
   nickname: ProNoobWarning
-hostname: ProNoobWarning.me # used to determine if google analytics should be triggered
-url: https://ProNoobWarning.me # the base hostname & protocol for your site
+hostname: ProNoobWarning.github.io # used to determine if google analytics should be triggered
+url: https://ProNoobWarning.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:title/
 
