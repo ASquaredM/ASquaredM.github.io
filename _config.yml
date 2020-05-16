@@ -1,10 +1,10 @@
-title: Ahmad Adel Muhammad (ProNoobWarning)
+title: Ahmad Adel Muhammad (ASquaredM)
 description: Student at Cairo University Faculty of Engineering
 author:
   name: Ahmad Adel Muhammad
-  nickname: ProNoobWarning
-hostname: ProNoobWarning.github.io # used to determine if google analytics should be triggered
-url: https://ProNoobWarning.github.io # the base hostname & protocol for your site
+  nickname: ASquaredM
+hostname: ASquaredM.github.io # used to determine if google analytics should be triggered
+url: https://ASquaredM.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 permalink: /:title/
 
@@ -12,7 +12,7 @@ permalink: /:title/
 social:
   name: Ahmad Adel Muhammad
   links:
-    - https://github.com/ProNoobWarning
+    - https://github.com/ASquaredM
     - https://www.linkedin.com/in/ahmad-a-muhammad
     - https://www.facebook.com/profile.php?id=1389086705
 
@@ -26,7 +26,7 @@ email:
 links:
 
   - name: github
-    url: https://github.com/ProNoobWarning
+    url: https://github.com/ASquaredM
     class: fa-github
   - name: linkedin
     url: https://www.linkedin.com/in/ahmad-a-muhammad
